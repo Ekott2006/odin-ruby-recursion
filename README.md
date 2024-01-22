@@ -1,8 +1,8 @@
-# Tic Tac Toe
+# Recursion
 
 ## Description
 
-A simple implementation of the fibonacci sequence and merge sort with.
+A simple implementation of the Fibonacci sequence and Merge Sort.
 This is a Project gotten from Odin Full stack on Ruby
 
 - [Recursion Instructions](https://www.theodinproject.com/lessons/ruby-recursion)
